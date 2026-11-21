@@ -1,0 +1,6 @@
+{
+  "name": "Колибри: Сезон Красного Мётла",
+  "description": "2.5D воздушный стелс-платформер в 5 актах и 16 главах о молодом колибри Пико, загадке пустых цветов и возрождении сада.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
